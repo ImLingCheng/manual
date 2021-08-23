@@ -19,7 +19,7 @@
 
 | 绿队        | 黄队             |
 | ----------- | ---------------- |
-| jiakua      | 关注嘉然顿顿解馋 |
+| jiakua      | 关注嘉然顿顿解馋  |
 | chou_e      | ER_Capital       |
 | Zhi_Dao     | Yi_Joy           |
 | Solitudream | bingling_sama    |
